@@ -1,0 +1,15 @@
+C:\Users\E001150\ChatGPTSamples\bin\Debug\net7.0\ChatGPTSamples.exe
+C:\Users\E001150\ChatGPTSamples\bin\Debug\net7.0\ChatGPTSamples.deps.json
+C:\Users\E001150\ChatGPTSamples\bin\Debug\net7.0\ChatGPTSamples.runtimeconfig.json
+C:\Users\E001150\ChatGPTSamples\bin\Debug\net7.0\ChatGPTSamples.dll
+C:\Users\E001150\ChatGPTSamples\bin\Debug\net7.0\ChatGPTSamples.pdb
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\ChatGPTSamples.csproj.AssemblyReference.cache
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\ChatGPTSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\ChatGPTSamples.AssemblyInfoInputs.cache
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\ChatGPTSamples.AssemblyInfo.cs
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\ChatGPTSamples.csproj.CoreCompileInputs.cache
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\ChatGPTSamples.dll
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\refint\ChatGPTSamples.dll
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\ChatGPTSamples.pdb
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\ChatGPTSamples.genruntimeconfig.cache
+C:\Users\E001150\ChatGPTSamples\obj\Debug\net7.0\ref\ChatGPTSamples.dll
